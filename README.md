@@ -20,3 +20,5 @@ The dataset was analysed in order to build the links dataframe for the construct
 The "Global Country Information Dataset 2023" contains a wealth of information about all countries worldwide, covering a wide range of indicators and attributes. It encompasses demographic statistics, economic indicators, environmental factors, healthcare metrics, education statistics, etc.
 
 Finally, the map of territorial similaties was built using Gephi software.
+
+ATC: On GitHub, the HTML representation is unable to render, please try loading the project page with nbviewer.org.
