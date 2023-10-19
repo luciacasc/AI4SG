@@ -21,4 +21,4 @@ The "Global Country Information Dataset 2023" contains a wealth of information a
 
 Finally, the map of territorial similaties was built using Gephi software.
 
-ATC: On GitHub, the HTML representation is unable to render, please try loading the project page with [link](nbviewer.org).
+ATC: On GitHub, the HTML representation is unable to render, please try loading the project page with [nbviewer](nbviewer.org).
